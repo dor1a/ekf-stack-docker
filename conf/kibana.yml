@@ -1,0 +1,8 @@
+server.name: dgx-1p
+server.host: 0.0.0.0
+server.port: 5601
+
+elasticsearch:
+  hosts: ["http://elasticsearch:9200"]
+  #username: elastic
+  #password: qwer4321!
